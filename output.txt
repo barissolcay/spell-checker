@@ -1,0 +1,11 @@
+chancc 1 1
+chance
+
+hlelo 2 1
+hello
+
+worl 2 7
+word
+work
+world
+
